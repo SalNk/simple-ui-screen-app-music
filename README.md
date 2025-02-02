@@ -15,9 +15,7 @@ La page d'accueil met en avant :
 
 ## 🛠 Technologies utilisées
 
-- _Frontend_ : HTML, CSS
-- _Design_ : Inspiré de plateformes modernes de streaming musical
-- _Backend_ : Non encore implémenté
+- React Native
 
 ## 📈 Roadmap
 
