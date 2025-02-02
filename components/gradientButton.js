@@ -5,10 +5,10 @@ import { LinearGradient } from 'expo-linear-gradient'
 export default function GradientButton({ title }) {
     return (
         <LinearGradient
-            colors={['#2b002b', '#792293']}
+            colors={['#220535', '#410040', '#540d33']}
             style={styles.containerButton}
-            end={{ x: 0.7, y: 0 }}
-            start={{ x: 0, y: 0.5 }}
+            start={{ x: 0, y: 0 }}
+            end={{ x: 0.8, y: 0 }}
         >
             <TouchableOpacity>
                 <Text style={{ fontSize: 20, color: 'white' }}>{title}</Text>
